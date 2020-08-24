@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4b7adb3-487d-42ec-9121-ef35b86132dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/VUE.JS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alurapic/src/components/shared/imagem-responsiva/imagemResponsiva.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alurapic/src/components/shared/painel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/npm-debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api" beforeDir="false" afterPath="$PROJECT_DIR$/api/api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/app/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/app/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/app/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/app/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/config/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/config/express.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/config/express.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/controllers/foto-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/controllers/grupo-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/controllers/principal-controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/directives/my-panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/directives/my-panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/directives/my-picture.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/lib/angular-animate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/lib/angular-cookies.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/lib/angular-resource.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/lib/angular-route.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/lib/angular.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/js/services/foto-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/partials/foto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/public/partials/principal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1gYLkFzdogPLVzMZAEA88jfAruN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b7adb3-487d-42ec-9121-ef35b86132dd" name="Default Changelist" comment="" />
+      <created>1598286722188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598286722188</updated>
+      <workItem from="1598286723644" duration="9464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="356" width="550" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598295547856">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="719" y="356" width="550" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1598295547856" />
+    <state x="571" y="113" width="769" height="874" key="CommitChangelistDialog2" timestamp="1598294474653">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="571" y="113" width="769" height="874" key="CommitChangelistDialog2/0.25.1920.1055@0.25.1920.1055" timestamp="1598294474653" />
+    <state x="445" y="223" key="SettingsEditor" timestamp="1598287942418">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="445" y="223" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1598287942418" />
+    <state x="623" y="255" key="run.anything.popup" timestamp="1598292346641">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="623" y="255" key="run.anything.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1598292346641" />
+  </component>
+</project>
