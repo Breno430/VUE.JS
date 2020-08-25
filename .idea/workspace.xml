@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f4b7adb3-487d-42ec-9121-ef35b86132dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/components/cadastro/Cadastro.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/cadastro/Cadastro.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alurapic/src/components/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/home/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/components/shared/botao/Botao.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/shared/botao/Botao.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/components/shared/painel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/shared/painel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurapic/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api" beforeDir="false" afterPath="$PROJECT_DIR$/api/api" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api/app/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/app/api/index.js" afterDir="false" />
@@ -51,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alurapic/src/directives" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,6 +64,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/alurapic/src/directives" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598286722188</updated>
       <workItem from="1598286723644" duration="15867000" />
-      <workItem from="1598371724917" duration="4428000" />
+      <workItem from="1598371724917" duration="11117000" />
     </task>
     <servers />
   </component>
@@ -79,10 +86,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="719" y="356" width="550" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598301300157">
+    <state x="719" y="356" width="550" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598378271718">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="719" y="356" width="550" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1598301300157" />
+    <state x="719" y="356" width="550" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1598378271718" />
     <state x="571" y="113" width="769" height="874" key="CommitChangelistDialog2" timestamp="1598375841353">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
