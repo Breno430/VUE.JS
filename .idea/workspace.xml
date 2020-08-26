@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b7adb3-487d-42ec-9121-ef35b86132dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/alurapic/src/components/shared/botao/Botao.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alurapic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alurapic/src/components/cadastro/Cadastro.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/cadastro/Cadastro.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/components/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/home/Home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alurapic/src/components/shared/botao/Botao.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/shared/botao/Botao.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/components/shared/imagem-responsiva/imagemResponsiva.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/components/shared/menu/Menu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/components/shared/menu/Menu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/components/shared/painel.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/directives/Transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/directives/Transform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurapic/src/domain/foto/Fotos.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/alurapic/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alurapic/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/src/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alurapic/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/alurapic/webpack.config.js" afterDir="false" />
@@ -46,7 +37,6 @@
       <change beforePath="$PROJECT_DIR$/api/api/public/partials/foto.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api/public/partials/principal.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/api/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/api/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/npm-debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/npm-debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +83,7 @@
       <workItem from="1598286723644" duration="15867000" />
       <workItem from="1598371724917" duration="14866000" />
       <workItem from="1598457910502" duration="144000" />
-      <workItem from="1598458645558" duration="537000" />
+      <workItem from="1598458645558" duration="8049000" />
     </task>
     <servers />
   </component>
